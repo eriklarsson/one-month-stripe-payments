@@ -13,6 +13,8 @@ gem 'pg', group: :production
 
 # Add 12 factor for Heroku
 gem 'rails_12factor', group: :production 
+# Adding Bootstrap
+gem 'bootstrap-sass'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
